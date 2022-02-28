@@ -1,5 +1,5 @@
 # basic-api-server
 
-[pull request link](https://github.com/islam-Attar/basic-express-server/pull/2)
+[pull request link](https://github.com/islam-Attar/basic-api-server/pull/1)
 
-[Heroku link](https://islam-basic-express-server.herokuapp.com/)
+[Heroku link](https://islam-basic-api-server.herokuapp.com/)
